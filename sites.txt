@@ -19,5 +19,7 @@ https://commissies.ch.tudelft.nl/icpc/images/agenda-mouseover.png
 https://commissies.ch.tudelft.nl/icpc/images/links-mouseover.png
 https://commissies.ch.tudelft.nl/icpc/images/sponsors-mouseover.png
 https://commissies.ch.tudelft.nl/icpc/images/faq-mouseover.png
+https://commissies.ch.tudelft.nl/icpc/images/rules-mouseover.png
+https://commissies.ch.tudelft.nl/icpc/images/join-mouseover.png
 https://2012.nwerc.eu/
 https://2013.nwerc.eu/
