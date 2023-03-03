@@ -4,3 +4,4 @@ The docker file has a simple router that serves the contest based on the prefix 
 
 ### Running the image
 `docker run -p 8080:8080 ghcr.io/wisvch/chipcie-legacy:<version-tag> `
+
