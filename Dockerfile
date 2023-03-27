@@ -14,3 +14,4 @@ COPY --link 2008.bapc.eu /srv/2008
 COPY --link 2012.nwerc.eu /srv/2012
 COPY --link 2013.nwerc.eu /srv/2013
 COPY --link 2016.bapc.eu /srv/2016
+COPY --link 2020.bapc.eu /srv/2020
